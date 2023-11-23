@@ -1,5 +1,7 @@
-import { Button } from "@/components/ui/button";
 import { Medal } from "lucide-react";
+import Link from "next/link";
+
+import { Button } from "@/components/ui/button";
 
 const MarketingPage = () => {
   return (
@@ -21,7 +23,9 @@ const MarketingPage = () => {
         Mantenha tudo em um só lugar, mesmo se o time for distribuído.
       </div>
       <div>
-        <Button>Obter Grátis</Button>
+        <Button className="mt-6" size="lg">
+          <Link href="/sign-up"> Faça seu teste GRÁTIS </Link>
+        </Button>
       </div>
     </div>
   );
