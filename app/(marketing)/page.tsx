@@ -18,9 +18,9 @@ const MarketingPage = () => {
       </div>
 
       <div className="text-sm md:text-xl text-neutral-400 mt-4 max-w-xs md:max-w-2xl text-center mx-auto">
-        Colabore e gerencie seus projetos, alcance novos picos de produtividade.
-        Para pequenas, médias e grandes empresas, a forma como sua equipe
-        trabalha é única, faça tudo isso com o ODS Gerenciador de Projetos.
+        Colabore e gerencie seus projetos, Para pequenas, médias e grandes
+        empresas, a forma como sua equipe trabalha é única, faça tudo isso com o
+        ODS Gerenciador de Projetos.
       </div>
       <div>
         <Button>Teste</Button>
