@@ -24,7 +24,10 @@ const MarketingPage = () => {
       </div>
       <div>
         <Button className="mt-6" size="lg">
-          <Link href="/sign-up"> Faça seu teste GRÁTIS </Link>
+          <Link href="/sign-up" className="uppercase">
+            {" "}
+            Faça seu teste{" "}
+          </Link>
         </Button>
       </div>
     </div>
