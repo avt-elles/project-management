@@ -28,8 +28,8 @@ const MarketingPage = () => {
           Nº 1 GERENCIAMENTO DE TAREFAS
         </div>
         <h1 className="text-3xl md:text-6xl text-center text-neutral-800 mb-6 font-bold max-w-xs md:max-w-4xl">
-          Reuna todas as suas tarefas, colegas de equipe e ferramentas em um só
-          lugar!
+          Todas as suas tarefas, times de desenvolvimento e muitas ferramentas,
+          em um só lugar!
         </h1>
         <div className="text-2xl md:text-4xl bg-gradient-to-r from-fuchsia-600 to-pink-600 text-white px-4 p-2 rounded-md b-4 w-fit">
           ODS Gerenciador de Tarefas
