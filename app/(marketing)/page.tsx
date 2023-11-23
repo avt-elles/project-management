@@ -13,7 +13,7 @@ const MarketingPage = () => {
           O ODS reúne as tarefas, colegas de equipe e ferramentas
         </h1>
         <div className="text-3xl md:text-6xl bg-gradient-to-r from-fuchsia-600 to-pink-600 text-white px-4 p-2 rounded-md b-4 w-fit">
-          em um único lugar
+          Em um único lugar
         </div>
       </div>
 
