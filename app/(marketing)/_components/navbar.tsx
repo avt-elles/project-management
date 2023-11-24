@@ -13,7 +13,7 @@ const Navbar = () => {
             <Link href="/sign-in">Login</Link>
           </Button>
           <Button size="sm">
-            <Link href="/sing-up"> Entrar grátis</Link>
+            <Link href="/sign-up"> Entrar grátis</Link>
           </Button>
         </div>
       </div>
