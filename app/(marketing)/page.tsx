@@ -27,8 +27,8 @@ const MarketingPage = () => {
           <Medal className="h-6 w-6 mr-2" />O Nº 1 PARA GERENCIAR TAREFAS
         </div>
         <h1 className="text-3xl md:text-6xl text-center text-neutral-800 mb-6 font-bold max-w-xs md:max-w-4xl">
-          Todas as suas tarefas, times de desenvolvimento e muitas ferramentas,
-          em um só lugar!
+          Organize e aumente a eficiência de seu time com um aplicativo de
+          gerenciamento de tarefas.
         </h1>
         <div className="text-2xl md:text-4xl bg-gradient-to-r from-fuchsia-600 to-pink-600 text-white px-4 p-2 rounded-md b-4 w-fit">
           ODS Gerenciador de Tarefas
@@ -41,13 +41,14 @@ const MarketingPage = () => {
           textFont.className
         )}
       >
-        Mantenha tudo em um só lugar, mesmo se o time for distribuído.
+        Planeje, organize e colabore em qualquer projeto com gerenciamento de
+        tarefas que pode ser personalizado para cada necessidade.
       </div>
       <div>
         <Button className="mt-6" size="lg">
           <Link href="/sign-up" className="uppercase">
             {" "}
-            Faça seu teste{" "}
+            Quero Testar{" "}
           </Link>
         </Button>
       </div>
